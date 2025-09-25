@@ -1,24 +1,76 @@
-AI Mood-Based Playlist Generator
+##AI Mood-Based Playlist Generator
 ---
 
 An intuitive web application that generates personalized Spotify playlists based on natural language mood descriptions. Powered by Gemini AI for mood interpretation and Spotify API for playlist creation, this project makes music discovery effortless and fun.
 
-Overview
+##Overview
 ---
 Finding the right playlist for your mood often takes time and effort. This application solves that problem by allowing users to type in a mood, vibe, or activity (e.g., "chill evening by the beach", "focus and study", "dance party with friends").
 Gemini AI interprets the natural language input.
 Spotify API curates a playlist that matches the vibe.
 The app then displays the playlist with track details, album art, and playback options.
-*Linked with Spotify :-
+
+##Features
+---
+- Natural language mood input processing with Gemini AI
+- Real-time playlist generation using Spotify API
+- Responsive UI built with React.js, optimized for desktop and mobile
+- Display of generated playlists with track titles, artists, album art, and Spotify links
+- Basic playback controls linking to Spotify app
+- Backend API built with Node.js and Express for AI processing and Spotify integration
+- Environment-based configuration for API keys and deployment
+
+## Technology Stack
+---
+
+- Frontend: React.js, HTML5, CSS3
+- Backend: Node.js, Express.js, Axios
+- AI Integration: Gemini AI API
+- Music Data: Spotify Web API
+- Dev Tools: npm, nodemon, dotenv
+
+## Installation
+
+### Backend
+
+1. Clone the repository  
+2. Navigate to `backend` folder  
+3. Create `.env` file with:
+    ```
+    GEMINI_API_KEY=your_gemini_api_key
+    SPOTIFY_CLIENT_ID=your_spotify_client_id
+    SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
+    ```
+4. Install dependencies:
+    ```
+    npm install
+    ```
+5. Start backend server:
+    ```
+    npx nodemon server.js
+    ```
+### Frontend
+
+1. Navigate to `frontend` folder  
+2. Install dependencies:
+    ```
+    npm install
+    ```
+3. Start React app:
+    ```
+    npm start
+    ```
+---
+## Usage
+1. Open your browser and go to `http://localhost:3000`
+2. Type your mood or vibe in the input box
+3. Click "Generate Playlist" button
+4. Explore your AI-generated, mood-based music playlist
+---
+📸 Screenshots ;-)
 <img width="1901" height="1074" alt="Screenshot 2025-09-25 144649" src="https://github.com/user-attachments/assets/7056f822-3dd0-429c-9275-ff4398db2cc3" />
 <img width="1916" height="1078" alt="Screenshot 2025-09-25 145006" src="https://github.com/user-attachments/assets/527487f3-f93b-45c4-a57a-55fa231e3c2b" />
-
-*Playlist for sad with my spotify :-
 <img width="1919" height="1076" alt="Screenshot 2025-09-25 153009" src="https://github.com/user-attachments/assets/d94e115a-19e4-4634-b898-dd6684fde93a" />
-
-
-📸 Screenshots ;-)
-(Attached Step by Step)
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 231436" src="https://github.com/user-attachments/assets/8544a54c-2a33-4f0d-a6a2-95aa9784dd97" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 230629" src="https://github.com/user-attachments/assets/f32f796f-0e80-4b42-bae2-14e572c4665a" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 230333" src="https://github.com/user-attachments/assets/71afcf1b-3c0d-421b-b6cb-12d9976b54f2" />
