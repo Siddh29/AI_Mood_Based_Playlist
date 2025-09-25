@@ -6,6 +6,8 @@ Finding the right playlist for your mood often takes time and effort. This appli
 Gemini AI interprets the natural language input.
 Spotify API curates a playlist that matches the vibe.
 The app then displays the playlist with track details, album art, and playback options.
+*Linked with Spotify :-
+<img width="1901" height="1074" alt="Screenshot 2025-09-25 144649" src="https://github.com/user-attachments/assets/7056f822-3dd0-429c-9275-ff4398db2cc3" />
 
 📸 Screenshots ;-)
 (Attached Step by Step)
