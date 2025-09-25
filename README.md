@@ -1,16 +1,16 @@
-##AI Mood-Based Playlist Generator
+AI Mood-Based Playlist Generator
 ---
 
 An intuitive web application that generates personalized Spotify playlists based on natural language mood descriptions. Powered by Gemini AI for mood interpretation and Spotify API for playlist creation, this project makes music discovery effortless and fun.
 
-##Overview
+Overview
 ---
 Finding the right playlist for your mood often takes time and effort. This application solves that problem by allowing users to type in a mood, vibe, or activity (e.g., "chill evening by the beach", "focus and study", "dance party with friends").
 Gemini AI interprets the natural language input.
 Spotify API curates a playlist that matches the vibe.
 The app then displays the playlist with track details, album art, and playback options.
 
-##Features
+Features
 ---
 - Natural language mood input processing with Gemini AI
 - Real-time playlist generation using Spotify API
@@ -20,7 +20,7 @@ The app then displays the playlist with track details, album art, and playback o
 - Backend API built with Node.js and Express for AI processing and Spotify integration
 - Environment-based configuration for API keys and deployment
 
-## Technology Stack
+Technology Stack
 ---
 
 - Frontend: React.js, HTML5, CSS3
@@ -29,9 +29,9 @@ The app then displays the playlist with track details, album art, and playback o
 - Music Data: Spotify Web API
 - Dev Tools: npm, nodemon, dotenv
 
-## Installation
+Installation
 
-### Backend
+# Backend
 
 1. Clone the repository  
 2. Navigate to `backend` folder  
@@ -49,7 +49,7 @@ The app then displays the playlist with track details, album art, and playback o
     ```
     npx nodemon server.js
     ```
-### Frontend
+# Frontend
 
 1. Navigate to `frontend` folder  
 2. Install dependencies:
@@ -61,7 +61,7 @@ The app then displays the playlist with track details, album art, and playback o
     npm start
     ```
 ---
-## Usage
+# Usage
 1. Open your browser and go to `http://localhost:3000`
 2. Type your mood or vibe in the input box
 3. Click "Generate Playlist" button
