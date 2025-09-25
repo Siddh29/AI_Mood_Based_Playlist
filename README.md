@@ -5,10 +5,16 @@ An intuitive web application that generates personalized Spotify playlists based
 
 Overview
 ---
-Finding the right playlist for your mood often takes time and effort. This application solves that problem by allowing users to type in a mood, vibe, or activity (e.g., "chill evening by the beach", "focus and study", "dance party with friends").
+Finding the right playlist for your mood often takes time and effort. 
+
+This application solves that problem by allowing users to type in a mood, vibe, or activity (e.g., "chill evening by the beach", "focus and study", "dance party with friends").
+
 Gemini AI interprets the natural language input.
+
 Spotify API curates a playlist that matches the vibe.
+
 The app then displays the playlist with track details, album art, and playback options.
+
 
 Features
 ---
