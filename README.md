@@ -86,6 +86,10 @@ Installation
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 230002" src="https://github.com/user-attachments/assets/54082206-b645-4c85-b657-41f8d1b1c729" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 224933" src="https://github.com/user-attachments/assets/69b10040-a903-4865-9136-9b5bae0b160d" />
 
+#gemini IAM & Admin access:
+<img width="1920" height="1080" alt="Screenshot 2025-09-25 211408" src="https://github.com/user-attachments/assets/aab95b1b-5f39-4226-b4aa-1ffa22347de9" />
+<img width="1400" height="856" alt="Screenshot 2025-09-25 211111" src="https://github.com/user-attachments/assets/46be12fc-6785-4f88-b861-292077c15945" />
+
 #Gemini Connected by Google Cloud proof:
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 224048" src="https://github.com/user-attachments/assets/743296f9-7231-43b2-ab11-2264aaaaad31" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 223818" src="https://github.com/user-attachments/assets/e7dc2892-e37b-4049-8688-d7c2128b2d65" />
