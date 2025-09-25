@@ -68,18 +68,24 @@ Installation
 4. Explore your AI-generated, mood-based music playlist
 ---
 📸 Screenshots ;-)
-*Spotify:
+
+#Spotify connection proof:
 <img width="1901" height="1074" alt="Screenshot 2025-09-25 144649" src="https://github.com/user-attachments/assets/7056f822-3dd0-429c-9275-ff4398db2cc3" />
 <img width="1916" height="1078" alt="Screenshot 2025-09-25 145006" src="https://github.com/user-attachments/assets/527487f3-f93b-45c4-a57a-55fa231e3c2b" />
 <img width="1919" height="1076" alt="Screenshot 2025-09-25 153009" src="https://github.com/user-attachments/assets/d94e115a-19e4-4634-b898-dd6684fde93a" />
+
+#Backend process done proof:
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 231436" src="https://github.com/user-attachments/assets/8544a54c-2a33-4f0d-a6a2-95aa9784dd97" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 230629" src="https://github.com/user-attachments/assets/f32f796f-0e80-4b42-bae2-14e572c4665a" />
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 230333" src="https://github.com/user-attachments/assets/71afcf1b-3c0d-421b-b6cb-12d9976b54f2" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 230002" src="https://github.com/user-attachments/assets/54082206-b645-4c85-b657-41f8d1b1c729" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 224933" src="https://github.com/user-attachments/assets/69b10040-a903-4865-9136-9b5bae0b160d" />
+
+#Gemini Connected by Google Cloud proof:
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 224048" src="https://github.com/user-attachments/assets/743296f9-7231-43b2-ab11-2264aaaaad31" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 223818" src="https://github.com/user-attachments/assets/e7dc2892-e37b-4049-8688-d7c2128b2d65" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 223657" src="https://github.com/user-attachments/assets/c59b5a97-8e40-402e-a1a1-cae62dc61451" />
+
+#Rest initial installation proof:
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 221647" src="https://github.com/user-attachments/assets/f12a0aa7-3c10-4e12-b531-fe827218caa9" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 221633" src="https://github.com/user-attachments/assets/74bb481a-1682-40d6-b302-cfb0cb754ebb" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 221613" src="https://github.com/user-attachments/assets/7b001811-3c8e-41e0-825e-49efc83f5ed7" />
