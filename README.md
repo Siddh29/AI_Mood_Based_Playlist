@@ -9,7 +9,6 @@ The app then displays the playlist with track details, album art, and playback o
 
 📸 Screenshots ;-)
 (Attached Step by Step)
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 232108" src="https://github.com/user-attachments/assets/ab7be67e-19a7-440e-bcc6-aa9f0ef069cf" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 231436" src="https://github.com/user-attachments/assets/8544a54c-2a33-4f0d-a6a2-95aa9784dd97" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 230629" src="https://github.com/user-attachments/assets/f32f796f-0e80-4b42-bae2-14e572c4665a" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 230333" src="https://github.com/user-attachments/assets/71afcf1b-3c0d-421b-b6cb-12d9976b54f2" />
