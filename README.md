@@ -8,6 +8,7 @@ Spotify API curates a playlist that matches the vibe.
 The app then displays the playlist with track details, album art, and playback options.
 *Linked with Spotify :-
 <img width="1901" height="1074" alt="Screenshot 2025-09-25 144649" src="https://github.com/user-attachments/assets/7056f822-3dd0-429c-9275-ff4398db2cc3" />
+<img width="1916" height="1078" alt="Screenshot 2025-09-25 145006" src="https://github.com/user-attachments/assets/527487f3-f93b-45c4-a57a-55fa231e3c2b" />
 
 📸 Screenshots ;-)
 (Attached Step by Step)
