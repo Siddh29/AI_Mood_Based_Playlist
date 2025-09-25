@@ -68,6 +68,7 @@ Installation
 4. Explore your AI-generated, mood-based music playlist
 ---
 📸 Screenshots ;-)
+*Spotify:
 <img width="1901" height="1074" alt="Screenshot 2025-09-25 144649" src="https://github.com/user-attachments/assets/7056f822-3dd0-429c-9275-ff4398db2cc3" />
 <img width="1916" height="1078" alt="Screenshot 2025-09-25 145006" src="https://github.com/user-attachments/assets/527487f3-f93b-45c4-a57a-55fa231e3c2b" />
 <img width="1919" height="1076" alt="Screenshot 2025-09-25 153009" src="https://github.com/user-attachments/assets/d94e115a-19e4-4634-b898-dd6684fde93a" />
