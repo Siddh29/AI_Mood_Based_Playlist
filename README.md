@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/7e0351c9-aa52-4cd4-ad74-15024f628888
+
 AI Mood-Based Playlist Generator
 ---
 
@@ -90,7 +94,10 @@ Installation
 2. Type your mood or vibe in the input box
 3. Click "Generate Playlist" button
 4. Explore your AI-generated, mood-based music playlist
+
+Screenrecording of working model:-
 ---
+https://github.com/user-attachments/assets/1031bfad-6058-4616-be1b-63f28843fa86
 📸 Screenshots ;-)
 #Live Working proof:-
 <img width="1920" height="1080" alt="Screenshot 2025-09-26 164241" src="https://github.com/user-attachments/assets/2941b286-fdea-4fc7-b375-b7fe82999907" />
@@ -122,3 +129,8 @@ Installation
 <img width="1920" height="1020" alt="Screenshot 2025-09-24 215024" src="https://github.com/user-attachments/assets/009a70dc-b3d1-4f5b-ad23-fd829bef30f9" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-24 214426" src="https://github.com/user-attachments/assets/95bbc224-15f5-4c5e-94c6-0bb65bae0f70" />
 <img width="1913" height="990" alt="Screenshot 2025-09-24 214355" src="https://github.com/user-attachments/assets/ad7888ae-8727-4c44-8c59-323c0179ada1" />
+
+
+
+
+
