@@ -2,6 +2,10 @@ AI Mood-Based Playlist Generator
 ---
 
 An intuitive web application that generates personalized Spotify playlists based on natural language mood descriptions. Powered by Gemini AI for mood interpretation and Spotify API for playlist creation, this project makes music discovery effortless and fun.
+# Run on Vercel:-
+---
+https://mood-playlist-generator-caxz06w25-jainsiddh2910-7925s-projects.vercel.app
+
 
 ### Run Locally
 ---
