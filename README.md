@@ -1,106 +1,70 @@
-AI Mood-Based Playlist Generator
----
+# Getting Started with Create React App
 
-An intuitive web application that generates personalized Spotify playlists based on natural language mood descriptions. Powered by Gemini AI for mood interpretation and Spotify API for playlist creation, this project makes music discovery effortless and fun.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Overview
----
-Finding the right playlist for your mood often takes time and effort. 
+## Available Scripts
 
-This application solves that problem by allowing users to type in a mood, vibe, or activity (e.g., "chill evening by the beach", "focus and study", "dance party with friends").
+In the project directory, you can run:
 
-Gemini AI interprets the natural language input.
+### `npm start`
 
-Spotify API curates a playlist that matches the vibe.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The app then displays the playlist with track details, album art, and playback options.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
-Features
----
-- Natural language mood input processing with Gemini AI
-- Real-time playlist generation using Spotify API
-- Responsive UI built with React.js, optimized for desktop and mobile
-- Display of generated playlists with track titles, artists, album art, and Spotify links
-- Basic playback controls linking to Spotify app
-- Backend API built with Node.js and Express for AI processing and Spotify integration
-- Environment-based configuration for API keys and deployment
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Technology Stack
----
+### `npm run build`
 
-- Frontend: React.js, HTML5, CSS3
-- Backend: Node.js, Express.js, Axios
-- AI Integration: Gemini AI API
-- Music Data: Spotify Web API
-- Dev Tools: npm, nodemon, dotenv
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Installation
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-# Backend
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-1. Clone the repository  
-2. Navigate to `backend` folder  
-3. Create `.env` file with:
-    ```
-    GEMINI_API_KEY=your_gemini_api_key
-    SPOTIFY_CLIENT_ID=your_spotify_client_id
-    SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
-    ```
-4. Install dependencies:
-    ```
-    npm install
-    ```
-5. Start backend server:
-    ```
-    npx nodemon server.js
-    ```
-# Frontend
+### `npm run eject`
 
-1. Navigate to `frontend` folder  
-2. Install dependencies:
-    ```
-    npm install
-    ```
-3. Start React app:
-    ```
-    npm start
-    ```
----
-# Usage
-1. Open your browser and go to `http://localhost:3000`
-2. Type your mood or vibe in the input box
-3. Click "Generate Playlist" button
-4. Explore your AI-generated, mood-based music playlist
----
-📸 Screenshots ;-)
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-#Spotify connection proof:
-<img width="1901" height="1074" alt="Screenshot 2025-09-25 144649" src="https://github.com/user-attachments/assets/7056f822-3dd0-429c-9275-ff4398db2cc3" />
-<img width="1916" height="1078" alt="Screenshot 2025-09-25 145006" src="https://github.com/user-attachments/assets/527487f3-f93b-45c4-a57a-55fa231e3c2b" />
-<img width="1919" height="1076" alt="Screenshot 2025-09-25 153009" src="https://github.com/user-attachments/assets/d94e115a-19e4-4634-b898-dd6684fde93a" />
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-#Backend process done proof:
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 231436" src="https://github.com/user-attachments/assets/8544a54c-2a33-4f0d-a6a2-95aa9784dd97" />
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 230629" src="https://github.com/user-attachments/assets/f32f796f-0e80-4b42-bae2-14e572c4665a" />
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 230002" src="https://github.com/user-attachments/assets/54082206-b645-4c85-b657-41f8d1b1c729" />
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 224933" src="https://github.com/user-attachments/assets/69b10040-a903-4865-9136-9b5bae0b160d" />
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-#gemini IAM & Admin access:
-<img width="1920" height="1080" alt="Screenshot 2025-09-25 211408" src="https://github.com/user-attachments/assets/aab95b1b-5f39-4226-b4aa-1ffa22347de9" />
-<img width="1400" height="856" alt="Screenshot 2025-09-25 211111" src="https://github.com/user-attachments/assets/46be12fc-6785-4f88-b861-292077c15945" />
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-#Gemini Connected by Google Cloud proof:
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 224048" src="https://github.com/user-attachments/assets/743296f9-7231-43b2-ab11-2264aaaaad31" />
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 223818" src="https://github.com/user-attachments/assets/e7dc2892-e37b-4049-8688-d7c2128b2d65" />
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 223657" src="https://github.com/user-attachments/assets/c59b5a97-8e40-402e-a1a1-cae62dc61451" />
+## Learn More
 
-#Rest initial installation proof:
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 221647" src="https://github.com/user-attachments/assets/f12a0aa7-3c10-4e12-b531-fe827218caa9" />
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 221633" src="https://github.com/user-attachments/assets/74bb481a-1682-40d6-b302-cfb0cb754ebb" />
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 221613" src="https://github.com/user-attachments/assets/7b001811-3c8e-41e0-825e-49efc83f5ed7" />
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 215526" src="https://github.com/user-attachments/assets/c95cf904-22c8-4a60-8279-b4d5ed8908b1" />
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 215221" src="https://github.com/user-attachments/assets/416d8062-6229-4241-9d1d-2bafcea03e57" />
-<img width="1920" height="1020" alt="Screenshot 2025-09-24 215024" src="https://github.com/user-attachments/assets/009a70dc-b3d1-4f5b-ad23-fd829bef30f9" />
-<img width="1920" height="1080" alt="Screenshot 2025-09-24 214426" src="https://github.com/user-attachments/assets/95bbc224-15f5-4c5e-94c6-0bb65bae0f70" />
-<img width="1913" height="990" alt="Screenshot 2025-09-24 214355" src="https://github.com/user-attachments/assets/ad7888ae-8727-4c44-8c59-323c0179ada1" />
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
